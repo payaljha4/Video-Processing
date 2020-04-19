@@ -2,7 +2,11 @@
 Script in Python using Machine Learning
 ## Pre-Requisites
 Jupyter Notebook
-## Install
+## Install jupyter
 apt-get install jupyter-notebook
+
+
+
+
 ***If you install any python3 library***
 `pip3 install <library>`
